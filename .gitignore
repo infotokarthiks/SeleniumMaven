@@ -1,9 +1,0 @@
-tmp
-.DS_Store
-.idea/*
-.idea
-*.iml
-*.log
-target/*
-.classpath
-.settings
