@@ -27,6 +27,7 @@ public class toolsqa1 {
 		System.out.println("The Window Handle is :" + winhandle);
 		String contents = driver.getPageSource();
 		System.out.println("The PageContent is :" + contents);
+		driver.close();
 	}
 
 }
